@@ -9,7 +9,7 @@ Contact: wangzt06@gmail.com
 ### Education
 
 * University of Chinese Academy of Sciences, PhD in Signal and Information Processing, Sep.2013 - Jun.2019
-* I was a visiting scientist with the [MULTISPEECH](https://team.inria.fr/multispeech/) team, Inria Nancy, during Sep.2016 - Sep.2017.
+* I was a visiting scientist with [Emmanuel VINCENT](https://members.loria.fr/EVincent/) and the [MULTISPEECH](https://team.inria.fr/multispeech/) team, Inria Nancy, during Sep.2016 - Sep.2017.
 * Peking University, China, B.Sc, Sep.2009 - Jun.2013
 
 ### Publications

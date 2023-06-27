@@ -1,6 +1,7 @@
 ## About me
 
-I am currently a member of the Alibaba [Speech Lab](https://damo.alibaba.com/labs/speech).
+* OPPO Audio Team, present
+* Alibaba [Speech Lab](https://damo.alibaba.com/labs/speech), Aug.2019-May.2023
 
 My research interests are microphone array speech processing and neural network based speech enhancement/separation.
 
